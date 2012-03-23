@@ -1,7 +1,8 @@
 {
     "name": "sockjs-client",
     "author": "Matthew Sackman",
-    "version": "0.1.0",
+    "version": "0.1.1",
+    "keywords": ["websockets", "websocket"],
     "repository": {
         "type": "git",
         "url": "git://github.com/sockjs/sockjs-client-node.git"
