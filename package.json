@@ -1,7 +1,7 @@
 {
     "name": "sockjs-client",
     "author": "Matthew Sackman",
-    "version": "0.1",
+    "version": "0.1.0",
     "repository": {
         "type": "git",
         "url": "git://github.com/sockjs/sockjs-client-node.git"
