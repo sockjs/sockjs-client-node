@@ -1,3 +1,7 @@
+# **DEPRECATED** 
+
+The [sockjs-client](https://github.com/sockjs/sockjs-client) project now supports running in node, and supports more transports than this project does. I strongly encourage you to use that instead.
+
 # SockJS Client Node
 
 Node client for [SockJS](https://github.com/sockjs). Currently, only
