@@ -1,5 +1,5 @@
 {
-    "name": "sockjs-client",
+    "name": "sockjs-client-node",
     "author": "Matthew Sackman",
     "version": "0.1.3",
     "keywords": ["websockets", "websocket"],
